@@ -1,8 +1,3 @@
-### ДОБРО ПОЖАЛОВАТЬ
-___  
-https://t.me/psinetika  
-https://t.me/PsiMeMusic  
-https://t.me/psinetika_clan  
 ### TELEGRA.PH
 ___  
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/-02-09-647)
