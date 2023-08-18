@@ -1,11 +1,5 @@
 ### WELCOME
-
 ___  
-
-https://github.com/psinetik  
-
-https://twitter.com/psinetik  
-
 https://t.me/MoneyEnergyRu  
 https://t.me/psinetika  
 https://t.me/Intorium_global  
@@ -14,7 +8,6 @@ https://t.me/money_energy_network_bot
 https://t.me/intorium  
 https://t.me/PsiMeMusic  
 https://t.me/psinetika_clan  
-
 ### TELEGRA.PH
 ___  
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/-02-09-647)
