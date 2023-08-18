@@ -1,11 +1,6 @@
 ### ДОБРО ПОЖАЛОВАТЬ
 ___  
-https://t.me/MoneyEnergyRu  
 https://t.me/psinetika  
-https://t.me/Intorium_global  
-https://t.me/wavesmap  
-https://t.me/money_energy_network_bot  
-https://t.me/intorium  
 https://t.me/PsiMeMusic  
 https://t.me/psinetika_clan  
 ### TELEGRA.PH
@@ -21,3 +16,11 @@ ___
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/Anketa-igroka-geroya-04-23)
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/Charta-alba-07-14)
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/Anketa-Igroka-Geroya-08-18)
+
+<!---
+https://t.me/MoneyEnergyRu  
+https://t.me/Intorium_global  
+https://t.me/wavesmap  
+https://t.me/money_energy_network_bot  
+https://t.me/intorium  
+--->
