@@ -1,16 +1,16 @@
 ### Psinetik Map 🌏
 
-https://github.com/psinetik
+https://github.com/psinetik  
 
-https://twitter.com/psinetik
+https://twitter.com/psinetik  
 
-https://t.me/MoneyEnergyRu
-https://t.me/psinetika
-https://t.me/Intorium_global
-https://t.me/wavesmap
+https://t.me/MoneyEnergyRu  
+https://t.me/psinetika  
+https://t.me/Intorium_global  
+https://t.me/wavesmap  
 
-https://telegra.ph/Sovet-tenej-04-01
-https://telegra.ph/-03-31-1469
+https://telegra.ph/Sovet-tenej-04-01  
+https://telegra.ph/-03-31-1469  
 
 <!--
 **psinetik/psinetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
