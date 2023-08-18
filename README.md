@@ -1,4 +1,6 @@
-### Psinetik Map 🌏
+### WELCOME
+Mermaid Network is easy to learn and reproduce, ideal for teachers and students alike.
+___  
 
 https://github.com/psinetik  
 
@@ -13,6 +15,8 @@ https://t.me/intorium
 https://t.me/PsiMeMusic  
 https://t.me/psinetika_clan  
 
+### TELEGRA.PH
+___  
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/-02-09-647)
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/Politika-03-23)
 [<img src="telegra.png" width=50px height=50px>](https://telegra.ph/-03-31-1469)
