@@ -1,5 +1,5 @@
 ### WELCOME
-Mermaid Network is easy to learn and reproduce, ideal for teachers and students alike.
+
 ___  
 
 https://github.com/psinetik  
